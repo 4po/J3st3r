@@ -63,7 +63,7 @@ Cookies et en-têtes
 -----------------
 Les cookies et les en-têtes personnalisés peuvent être inclus dans les demandes en les ajoutant aux zones de texte sous la forme d'une liste de paires clé=valeur séparées par des virgules - par exemple
 
-    q=test&type=debug
+     SESSIONID=1234, DEBUG=true
 
 
 
