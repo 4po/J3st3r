@@ -1,7 +1,7 @@
 J3st3r
 ======
 
-Jester est un outil expérimental (c'est-à-dire inachevé) de test de l'API. Il produit vos actions sous forme d'instructions Java à l'aide de REST Assured qui peuvent ensuite être refaites en tests réutilisables.
+Jester conçu par 4po encore en développement (c'est-à-dire inachevé) de test de l'API. Il produit vos actions sous forme d'instructions Java à l'aide de REST Assured qui peuvent ensuite être refaites en tests réutilisables.
 Jester peut GET, éditer ou importer et POSTER des réponses JSON, affirmer sur les réponses ou SUPPRIMER des points terminaux de l'API.
 
 
