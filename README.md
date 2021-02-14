@@ -15,7 +15,8 @@ Ouvrez le dossier "Jester" dans NetBeans ou votre IDE préféré, et construisez
 
 Construisez un paquet à partir de la ligne de commande avec :
 
-    paquet mvn 
+        mvn package 
+
 
 
 Le bouffon en marche
@@ -62,7 +63,8 @@ Cookies et en-têtes
 -----------------
 Les cookies et les en-têtes personnalisés peuvent être inclus dans les demandes en les ajoutant aux zones de texte sous la forme d'une liste de paires clé=valeur séparées par des virgules - par exemple
 
-    SESSIONID=1234, DEBUG=vrai
+    q=test&type=debug
+
 
 
 
